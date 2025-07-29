@@ -1,2 +1,4 @@
 line
 add line 55555
+
+conflict
